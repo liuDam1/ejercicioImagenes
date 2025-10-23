@@ -2,6 +2,7 @@
 
 ## Descripción
 Este proyecto es un programa Java que convierte imágenes de un formato a otro utilizando el comando `convert` de ImageMagick. El programa verifica la existencia del archivo de entrada y ejecuta el comando de conversión correspondiente.
+> https://github.com/liuDam1/ejercicioImagenes.git
 
 ## Requisitos
 - **Java 17** o superior
